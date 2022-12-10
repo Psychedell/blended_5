@@ -15,7 +15,7 @@ export const App = () => {
     };
 
     function success(pos) {
-      const crd = pos.coords;
+      // const crd = pos.coords;
 
       // console.log('Your current position is:');
       // console.log(`Latitude : ${crd.latitude}`);
